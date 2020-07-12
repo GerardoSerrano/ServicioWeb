@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<CodigoPostal>
+	<codigo id="03000">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Benito Juarez</entidad>
+		<asentamiento>Colonia Piedad Narvarte</asentamiento>
+	</codigo>
+	<codigo id="06000">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Cuauhtémoc</entidad>
+		<asentamiento>Colonia Centro (Ãrea 1)</asentamiento>
+	</codigo>
+<codigo id="01389">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Álvaro Obregón</entidad>
+		<asentamiento>Colinia Santa Fe Tlayapaca</asentamiento>
+	</codigo>
+<codigo id="02840">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Azcapotzalco</entidad>
+		<asentamiento>Colonia Petrolera</asentamiento>
+	</codigo>
+<codigo id="05240">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Cuajimalpa de Morelos</entidad>
+		<asentamiento>Colonia El Molino</asentamiento>
+	</codigo>
+<codigo id="07180">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Gustavo A. Madero</entidad>
+		<asentamiento>Colonia Coyotes</asentamiento>
+	</codigo>
+<codigo id="08000">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Iztacalco</entidad>
+		<asentamiento>colonia Gabriel Ramos Millán Sección Bramadero</asentamiento>
+	</codigo>
+<codigo id="09350">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Iztapalapa</entidad>
+		<asentamiento>Unidad Vicente Guerrero</asentamiento>
+	</codigo>
+<codigo id="12000">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Milpa Alta</entidad>
+		<asentamiento>Barrio la Concepción</asentamiento>
+	</codigo>
+<codigo id="14000">
+		<localidad>Ciudad de Mexico</localidad>
+		<entidad>Tlalpan</entidad>
+		<asentamiento>Colonia Tlalpan Centro</asentamiento>
+	</codigo>
+
+</CodigoPostal>
